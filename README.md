@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Before running the app you need to create .env file with the following keys
 
-REACT_APP_FIXER_KEY={your fixer api key}
+REACT_APP_FIXER_KEY={your fixer api key}\
 REACT_APP_NDOE_ENV={anything except development ex: production, testing, ...}
 
 
